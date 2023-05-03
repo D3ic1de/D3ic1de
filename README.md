@@ -6,8 +6,7 @@ A cybersecurity engineer and ctfer\
 ![D3ic1de's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ic1de)\
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D3ic1de)
   
-.. image:: https://wakatime.com/share/@ec167237-a1e5-4dfe-badc-62cffd2b7509/8674e479-c93b-4a47-ac2f-a59f350c09fd.png
-    :target: https://wakatime.com/
+![](https://wakatime.com/share/@ec167237-a1e5-4dfe-badc-62cffd2b7509/8674e479-c93b-4a47-ac2f-a59f350c09fd.png)
 
 <!--
 **D3ic1de/D3ic1de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
